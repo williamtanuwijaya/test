@@ -1,0 +1,15 @@
+*{
+    background-color: darkgoldenrod;
+}
+h1{
+    color: chocolate;
+    background-color: darkblue;
+    margin-right: 75%;
+}
+
+.tombol{
+    background-color: darkcyan;
+    height: 250px;
+    width: 250px; 
+    margin-left: 50%;     
+}
